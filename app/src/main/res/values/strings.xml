@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Firebase Kotlin Auth 2019</string>
+    <string name="facebook_application_id" translatable="false">321336052163529</string>
+    <string name="facebook_login_protocal" translatable="false">321336052163529</string>
+</resources>
